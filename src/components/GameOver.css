@@ -1,0 +1,15 @@
+.restart_btn{
+    background: #1a1a1a;
+    color: white;
+    border-style: outset;
+    border-color: #ffffff;
+    height: 50px;
+    width: 100px;
+    font: bold15px arial,sans-serif;
+    text-shadow: none;
+}
+
+.restart_btn:hover {
+    background: #4e4e4e;
+    transition: 0.5s;
+}

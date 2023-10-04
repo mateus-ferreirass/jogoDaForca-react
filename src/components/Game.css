@@ -1,0 +1,36 @@
+.game h1 {
+    font-size: 2.5em;
+}
+
+.wordContainer {
+    justify-content: center;
+    margin: 1.5em;
+    padding: 1.5em;
+    display: flex;
+}
+
+.letter, .blankcube {
+    font-size: 70px;
+    text-align: center;
+    border: 3px solid #fff;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+}
+
+.letterConteiner p{
+    margin-bottom: 1.2em;
+}
+
+.letterConteiner input{
+    width: 50px;
+    height: 50px;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 1em;
+}
+
+.lifes {
+    display: flex;
+    margin-left: 20%;
+}
